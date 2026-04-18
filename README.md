@@ -16,7 +16,6 @@ Each agent (boid) follows three simple rules:
 
 From these simple rules, complex and realistic flocking behavior emerges.
 
----
 
 ## 🎥 Preview
 
@@ -24,7 +23,6 @@ Example:
 
 ![Boids simulation](boids_simulation.gif)
 
----
 
 ## 🚀 Features
 
@@ -35,7 +33,6 @@ Example:
 * Smooth real-time animation
 * Configurable parameters (speed, radius, force)
 
----
 
 ## 🧠 Concept
 
@@ -53,7 +50,6 @@ Used in:
 * Robotics swarms
 * Complex systems research
 
----
 
 ## 🛠️ Requirements
 
@@ -65,7 +61,6 @@ Install dependencies:
 pip install pygame
 ```
 
----
 
 ## ▶️ How to Run
 
@@ -82,7 +77,6 @@ Run the simulation:
 python main.py
 ```
 
----
 
 ## ⚙️ Configuration
 
@@ -100,7 +94,6 @@ COHESION_RADIUS = 110
 
 Changing these values will affect the flock behavior.
 
----
 
 ## 📚 Inspiration
 
@@ -108,7 +101,6 @@ Changing these values will affect the flock behavior.
 * Artificial Life research
 * Swarm intelligence systems
 
----
 
 ## 🔬 Possible Improvements
 
@@ -119,16 +111,12 @@ Changing these values will affect the flock behavior.
 * 3D simulation
 * Machine learning agents
 
----
 
 ## 📄 License
 
 MIT License.
 
----
 
 ## 👨‍💻 Author
 
 Created as a learning project on multi-agent systems and emergent behavior.
-
----
