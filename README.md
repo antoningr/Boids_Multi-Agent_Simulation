@@ -19,8 +19,6 @@ From these simple rules, complex and realistic flocking behavior emerges.
 
 ## 🎥 Preview
 
-Example:
-
 ![Boids simulation](boids_simulation.gif)
 
 
@@ -68,7 +66,6 @@ Clone the repository:
 
 ```bash
 git clone https://github.com/antoningr/boids-simulation.git
-cd boids-simulation
 ```
 
 Run the simulation:
