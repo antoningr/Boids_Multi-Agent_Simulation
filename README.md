@@ -22,9 +22,7 @@ From these simple rules, complex and realistic flocking behavior emerges.
 
 Example:
 
-```text
 boids_simulation.gif
-```
 
 ---
 
