@@ -22,7 +22,7 @@ From these simple rules, complex and realistic flocking behavior emerges.
 
 Example:
 
-boids_simulation.gif
+![Boids simulation](boids_simulation.gif)
 
 ---
 
